@@ -1,0 +1,9 @@
+--- web scraping requirements ---
+mysql-connector : make sure the data is stored on MySQL
+requests
+beautifulsoup4
+
+--- google collab requirements ---
+pandas
+scikit-learn
+nltk

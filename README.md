@@ -3,9 +3,9 @@
 This project analyzes population trends and public sentiment based on news articles published between 2015 and 2024. It combines dynamic web scraping with advanced NLP models.
 
 ## 📁 Project Structure
-- **/scraping**: Python scripts for data collection.
-- **/notebooks**: Jupyter/Colab notebooks for data processing and model training.
-- **/data**: Contains the Lexicon and the News NLP dataset (~28MB).
+- **/Scraping**: Python scripts for data collection.
+- **/Notebook**: Jupyter/Colab notebooks for data processing and model training.
+- **/Data**: Contains the Lexicon and the News NLP dataset (~28MB).
 
 ## 🛠 Setup & Requirements
 ### 1. Database Configuration (MySQL)
